@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**acmota2/acmota2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I am a backend engineer who likes cloud native technologies and open source software. Here is where some of my personal projects live and where I experiment with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Development workflow
+
+Here are some of the tools I use to automate and streamline my development workflow:
+
+- [Nix flakes](https://nixos.wiki/wiki/Flakes)
+- [Direnv](https://direnv.net/)
+- [Just](https://just.systems/man/en/)
